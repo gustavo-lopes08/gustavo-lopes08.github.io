@@ -8,6 +8,7 @@ Incoming roadmap:
 - - Security Best Practices
 - - - NEVER deploy private resources on a public subnet
 - - The importance of High Availability
+  - Calculating CIDR Block: The easy way (grab a calculator!)
 
 - How to connect two isolated networks (VPC Peering)
 - - Use case: A backend service needs to talk to a Redis cluster from another network to implement caching strategies
