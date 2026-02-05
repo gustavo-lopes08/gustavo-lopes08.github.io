@@ -1,5 +1,5 @@
 # gustavo-lopes08.github.io
-This is my personal blog where I teach content about the DevOps world in a simple way
+This is my personal blog where I share stuff about the DevOps world in a friendly language
 
 # Incoming roadmap
 ## Configuring a network for a web app (database, backend, frontend)
