@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Infraestrutura na AWS para desenvolvedores: Introdução
-subtitle: Tudo que você deve saber para rodar um web app na AWS
+title: DevOps na AWS para desenvolvedores: Introdução
+subtitle: Tudo que você deve saber para construir sua aplicação web do zero
 cover-img: /assets/img/post0-introducao.png
 thumbnail-img: /assets/img/post0-introducao.png
 share-img: /assets/img/post0-introducao.png
-tags: [aws, carreira, vpc, nat, gateway, internet]
+tags: [aws, carreira, devops, motivacional]
 author: Gustavo Lopes
 ---
 
@@ -13,5 +13,23 @@ author: Gustavo Lopes
 
 Quando comecei minha carreira em tecnologia, cerca de 10 anos atrás, como um bom estagiário aspirante a administrador de sistemas minha primeira missão foi me conectar via ssh em um servidor remoto.
 
-Tudo o que eu precisava era de um terminal, usuario, ip do servidor, chave de acesso e é claro, fé que nao ia dar timeout!
+Tudo o que eu precisava era de um terminal, usuario, ip do servidor, chave de acesso e é claro, fé que nao ia dar timeout.
 
+1...2...3... Whow!
+
+Como num passe de mágica, o usuario do terminal se transformou em `ubuntu` e aquilo fez com que meus olhos brilhassem. Sempre quis entender como dispositivos se conectavam através da internet, e certamente esse foi um dia em que minha curiosidade foi ainda mais aguçada.
+
+O tempo passou e os desafios cresceram.
+
+{: .box-note}
+- "Gustavo, precisamos instalar esse novo patch de segurança em nossos 47 servidores!"
+- "Para quando isso?"
+- "Temos até o fim do dia"
+
+É claro que isso não seria possível sem uma boa pitada de shell script.
+
+Depois de apagar muito incêndio, diálogos como esse me fizeram pensar de uma forma diferente, inovadora, permitindo me antecipar a pedidos urgentes e entregar um trabalho de excelência.
+
+Ao longo desses 10 anos, transitei entre diferentes times, linguagens, metodologias, mas um termo em específico roubou toda minha atenção: **DevOps**
+
+O que era essa palavrinha que estava ganhando esse *hype* todo?
